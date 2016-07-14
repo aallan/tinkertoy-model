@@ -38,7 +38,7 @@ simulations, where each simulation runs for 100 iterations.
 Authors
 -------
 
-The tinkertoy model was written by Alasdair Allan <aa@astro.ex.ac.uk>.
+The tinkertoy model was written by Alasdair Allan <alasdair@babilim.co.uk> (2004).
 
 References
 ----------
